@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jude Macalaguing! 👋
 
 I am a BSIT student from Xavier University - Ateneo de Cagayan. To be honest, I'm still figuring out the heavy coding side of things, but I really enjoy the creative part of technology—especially Web Designing. I love seeing how colors, layouts, and fonts come together to make a website look good and easy to use.
 
