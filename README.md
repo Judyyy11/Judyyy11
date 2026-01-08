@@ -6,7 +6,7 @@ I am a BSIT student from Xavier University - Ateneo de Cagayan. To be honest, I'
 - 🏫 School: Currently surviving BSIT at Xavier Ateneo.
 - 🎨 Current Love: Exploring UI/UX and making websites look clean and modern.
 - 💬 Ask me about: Design inspirations, basic HTML/CSS, or even just tips on how to keep motivated while studying.
-- 📬 Email: jmacalaguing@my.xu.edu.ph
+- 📬 Email: 2023008403@my.xu.edu.ph
 
 🌱 What I'm Trying to Learn
 - 🖌️ Web Design & Frontend
