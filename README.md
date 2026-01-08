@@ -16,3 +16,4 @@ I am a BSIT student from Xavier University - Ateneo de Cagayan. To be honest, I'
 🏆 Small Wins
 - 🎯 Got my Git and GitHub setup working (finally!).
 - 💻 Currently working on a API final project and making sure the interface looks nice.
+Fun Fact: I spend more time picking colors than coding!
